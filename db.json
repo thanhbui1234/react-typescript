@@ -1,0 +1,12 @@
+{
+  "products": [
+    { "id": 1, "product": "xuc cut", "price": 100 },
+    { "id": 3, "product": "xuc cutv", "price": 100 },
+    { "id": 2, "product": "xuc cho cut", "price": 100 }
+  ],
+  "menus": [
+    { "id": 1, "name": "thanh", "path": "/" },
+    { "id": 2, "name": "thanhthanh", "path": "/" },
+    { "id": 3, "name": "Yeu cam ly", "path": "/" }
+  ]
+}
